@@ -1,0 +1,13 @@
+{
+  "name": "pass-strength",
+  "version": "1.0.0",
+  "description": "Password Strength testing",
+  "main": "pass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gandu": "node sample.js"
+
+  },
+  "author": "Sandesh Basnet",
+  "license": "ISC"
+}

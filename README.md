@@ -1,6 +1,8 @@
 # password-strength-evaluator
 Node app to determine password strength. Available on npm.
 
+
+
 This is a sample to test out.
 Test Algorithm scoring rubric (Total possible : 8)
 password length > 8     - 2 points
